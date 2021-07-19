@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="841.89" height="595.276" viewBox="0 0 841.89 595.276">
+  <defs>
+    <clipPath id="clip-Artboard_1_copy_2">
+      <rect width="841.89" height="595.276"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1_copy_2" data-name="Artboard 1 copy 2" clip-path="url(#clip-Artboard_1_copy_2)">
+    <rect width="841.89" height="595.276" fill="#fff"/>
+    <path id="Path_30" data-name="Path 30" d="M2130.788,324.626a49.168,49.168,0,1,1-49.27-49.166V262.2a62.423,62.423,0,1,0,62.525,62.421Z" transform="translate(-1660.185 -27.195)" fill="#00e964"/>
+    <g id="loading_segment" data-name="loading segment" transform="translate(376 252)">
+      <g id="Ellipse_25" data-name="Ellipse 25" transform="translate(90 0) rotate(90)" fill="none" stroke="#00131e" stroke-width="10" stroke-dasharray="27 1000">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="40" fill="none"/>
+      </g>
+    </g>
+    <g id="loading_segment-2" data-name="loading segment" transform="translate(404.529 235.529) rotate(30)">
+      <g id="Ellipse_25-2" data-name="Ellipse 25" transform="translate(90 0) rotate(90)" fill="none" stroke="#00131e" stroke-width="10" stroke-dasharray="27 1000">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="40" fill="none"/>
+      </g>
+    </g>
+    <g id="loading_segment-3" data-name="loading segment" transform="translate(437.472 235.529) rotate(60)">
+      <g id="Ellipse_25-3" data-name="Ellipse 25" transform="translate(90 0) rotate(90)" fill="none" stroke="#00131e" stroke-width="10" stroke-dasharray="27 1000">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="40" fill="none"/>
+      </g>
+    </g>
+    <g id="loading_segment-4" data-name="loading segment" transform="translate(466 252) rotate(90)">
+      <g id="Ellipse_25-4" data-name="Ellipse 25" transform="translate(90 0) rotate(90)" fill="none" stroke="#00131e" stroke-width="10" stroke-dasharray="27 1000">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="40" fill="none"/>
+      </g>
+    </g>
+    <g id="loading_segment-5" data-name="loading segment" transform="translate(482.472 280.529) rotate(120)">
+      <g id="Ellipse_25-5" data-name="Ellipse 25" transform="translate(90 0) rotate(90)" fill="none" stroke="#00131e" stroke-width="10" stroke-dasharray="27 1000">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="40" fill="none"/>
+      </g>
+    </g>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="21.313" cy="21.313" r="21.313" transform="translate(441.232 235.01)" fill="#00131e" stroke="#fff" stroke-width="6"/>
+  </g>
+</svg>
